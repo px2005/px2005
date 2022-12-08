@@ -120,8 +120,8 @@ a:hover {
 
 .content__hello {
     display: flex;
-    margin-top: 4.2rem;
-    margin-bottom: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     font-size: 28px;
     line-height: 2.8rem;
 }
